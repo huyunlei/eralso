@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![ephemeralso's github stats](https://github-readme-stats.vercel.app/api?username=ephemeralso&show_icons=true&hide_border=true)
-![ephemeralso's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ephemeralso&langs_count=10&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010))
+![ephemeralso's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ephemeralso&langs_count=10&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact)
