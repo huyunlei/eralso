@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Eralso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Eralso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br>
 
 <!-- ### Hi eralso 👋 -->
 
